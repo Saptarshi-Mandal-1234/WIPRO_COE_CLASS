@@ -653,10 +653,10 @@ This repository represents the consolidated work submitted as part of the **Wipr
 # 👨‍💻 Author
 
 **Saptarshi Mandal**
-4th Year
-Computer Science & Technology
-Enrollment no : 12023002022009
-Registration no : 304202300900569
+**4th Year**
+**Computer Science & Technology**
+**Enrollment no : 12023002022009**
+**Registration no : 304202300900569**
 GitHub: [Saptarshi-Mandal-1234](https://github.com/Saptarshi-Mandal-1234)
 
 ---
